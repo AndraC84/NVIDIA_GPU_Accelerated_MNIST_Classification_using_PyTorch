@@ -1,0 +1,2 @@
+GPU,Dataset,Epochs,Batch Size,Training Time (seconds),Final Loss,Accuracy (%)
+NVIDIA Tesla T4,MNIST,5,64,40.719001054763794,0.0538,97.62
